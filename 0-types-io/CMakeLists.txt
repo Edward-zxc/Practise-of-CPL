@@ -1,0 +1,5 @@
+add_executable(ASCII ASCII.c)
+add_executable(Change Change.c)
+add_executable(Equation Equation.c)
+add_executable(Gravity Gravity.c)
+add_executable(Julian Julian.c)
