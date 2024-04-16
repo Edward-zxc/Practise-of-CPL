@@ -5,3 +5,4 @@ set(CMAKE_C_STANDARD 17)
 
 #gcc hello.c -o hello
 add_subdirectory(0-types-io)
+add_subdirectory(Algorithems)
