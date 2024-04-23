@@ -5,8 +5,8 @@
 # include <string.h>
 int main(void){
     char target[100];
-    char *strings[]={"a","b","c","d","e"};
-    scanf("%s",target);
+    char *strings[]={"abbb","bff","cbb","dff","fe"};
+    scanf("%s",&target);
     for (int i = 0;i <4; i++) {
         if (strcmp(strings[i],target)==0){
             printf("Found\n");
