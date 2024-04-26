@@ -1,0 +1,164 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1,
+						2
+					],
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.25"
+					},
+					"projectIndex" : 0,
+					"source" : "."
+				},
+				{
+					"build" : "0-types-io",
+					"jsonFile" : "directory-0-types-io-Debug-584b62ad7eb2b5e0f0ad.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.25"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "0-types-io",
+					"targetIndexes" : 
+					[
+						0,
+						2,
+						3,
+						4,
+						5
+					]
+				},
+				{
+					"build" : "Algorithems",
+					"jsonFile" : "directory-Algorithems-Debug-55deafbaea33f9c0cd7b.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.25"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "Algorithems",
+					"targetIndexes" : 
+					[
+						1,
+						6,
+						7,
+						8
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0,
+						1,
+						2
+					],
+					"name" : "Practise-of-CPL",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 1,
+					"id" : "ASCII::@2188f81baad7efb90a11",
+					"jsonFile" : "target-ASCII-Debug-b8a9caca830f1f7b2070.json",
+					"name" : "ASCII",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "Bubble_Sort::@90e565396785b41354f5",
+					"jsonFile" : "target-Bubble_Sort-Debug-c591451c57331c0396a4.json",
+					"name" : "Bubble_Sort",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "Change::@2188f81baad7efb90a11",
+					"jsonFile" : "target-Change-Debug-80d8b54444410b361c04.json",
+					"name" : "Change",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "Equation::@2188f81baad7efb90a11",
+					"jsonFile" : "target-Equation-Debug-4b3c9e151e0a4e0ede71.json",
+					"name" : "Equation",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "Gravity::@2188f81baad7efb90a11",
+					"jsonFile" : "target-Gravity-Debug-0520f0c24a94db96349e.json",
+					"name" : "Gravity",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "Julian::@2188f81baad7efb90a11",
+					"jsonFile" : "target-Julian-Debug-147b91149e5a988dd8a9.json",
+					"name" : "Julian",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "Linear-Search-NUM::@90e565396785b41354f5",
+					"jsonFile" : "target-Linear-Search-NUM-Debug-3403724dc487e9b2986c.json",
+					"name" : "Linear-Search-NUM",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "Linear-Search-String::@90e565396785b41354f5",
+					"jsonFile" : "target-Linear-Search-String-Debug-75754533b9b98de1ac08.json",
+					"name" : "Linear-Search-String",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "max_of_array::@90e565396785b41354f5",
+					"jsonFile" : "target-max_of_array-Debug-04007f7a01a59f26819c.json",
+					"name" : "max_of_array",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "D:/Course/Practise-of-CPL/cmake-build-debug",
+		"source" : "D:/Course/Practise-of-CPL"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}

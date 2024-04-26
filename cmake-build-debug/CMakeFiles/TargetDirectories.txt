@@ -1,0 +1,15 @@
+D:/Course/Practise-of-CPL/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Course/Practise-of-CPL/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+D:/Course/Practise-of-CPL/cmake-build-debug/0-types-io/CMakeFiles/ASCII.dir
+D:/Course/Practise-of-CPL/cmake-build-debug/0-types-io/CMakeFiles/Change.dir
+D:/Course/Practise-of-CPL/cmake-build-debug/0-types-io/CMakeFiles/Equation.dir
+D:/Course/Practise-of-CPL/cmake-build-debug/0-types-io/CMakeFiles/Gravity.dir
+D:/Course/Practise-of-CPL/cmake-build-debug/0-types-io/CMakeFiles/Julian.dir
+D:/Course/Practise-of-CPL/cmake-build-debug/0-types-io/CMakeFiles/edit_cache.dir
+D:/Course/Practise-of-CPL/cmake-build-debug/0-types-io/CMakeFiles/rebuild_cache.dir
+D:/Course/Practise-of-CPL/cmake-build-debug/Algorithems/CMakeFiles/Linear-Search-NUM.dir
+D:/Course/Practise-of-CPL/cmake-build-debug/Algorithems/CMakeFiles/Linear-Search-String.dir
+D:/Course/Practise-of-CPL/cmake-build-debug/Algorithems/CMakeFiles/max_of_array.dir
+D:/Course/Practise-of-CPL/cmake-build-debug/Algorithems/CMakeFiles/Bubble_Sort.dir
+D:/Course/Practise-of-CPL/cmake-build-debug/Algorithems/CMakeFiles/edit_cache.dir
+D:/Course/Practise-of-CPL/cmake-build-debug/Algorithems/CMakeFiles/rebuild_cache.dir

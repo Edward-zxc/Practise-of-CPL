@@ -1,0 +1,16 @@
+# ninja log v5
+1	51	7340085431692399	0-types-io/CMakeFiles/Change.dir/Change.c.obj	58a73974555a63a9
+19	164	7357459800035343	0-types-io/CMakeFiles/Gravity.dir/Gravity.c.obj	b2996b7ee236757b
+52	113	7340085432271856	0-types-io/Change.exe	6cc5fc4ea8ecf69f
+164	361	7357459801983405	0-types-io/Gravity.exe	54b58650727b7fd4
+8	77	7349724818435722	Algorithems/CMakeFiles/Linear-Search-String.dir/Linear-Search-String_.c.obj	5025e46bb6a1fc0c
+1	54	7340100167564728	0-types-io/CMakeFiles/Equation.dir/Equation.c.obj	1d3319f4badb321e
+2	64	7349702368783047	Algorithems/CMakeFiles/Linear-Search.dir/Linear-Search.c.obj	6eaf9fb9869d2c31
+54	115	7340100168150695	0-types-io/Equation.exe	354ce90ef0dca95c
+64	130	7349702369407374	Algorithems/Linear-Search.exe	225d0ee73da4ece5
+77	162	7349724819248594	Algorithems/Linear-Search-String.exe	e360342f11bca76d
+7	181	7352349514466666	Algorithems/CMakeFiles/max_of_array.dir/max_of_array.c.obj	438d227961d44062
+182	412	7352349516751293	Algorithems/max_of_array.exe	e150550a835649b6
+10	66	7354005418510031	Algorithems/CMakeFiles/Bubble_Sort.dir/Bubble_Sort.c.obj	5a84c6bc34c0612e
+66	130	7354005419129627	Algorithems/Bubble_Sort.exe	c590e0a2fbe61a82
+1	263	7357460111337663	build.ninja	b9e7dfaca154d3ce
